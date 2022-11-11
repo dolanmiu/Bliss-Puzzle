@@ -1,3 +1,11 @@
+# Introduction
+
+> This project is a fork of https://github.com/kellinwood/PuzzleSolver
+
+I am using this to solve a 2000 piece Windows XP Bliss Wallpaper puzzle
+
+Scans for the puzzle are here: https://github.com/dolanmiu/Bliss-Puzzle/tree/master/Scans/bliss
+
 PuzzleSolver 2019
 ============
 
