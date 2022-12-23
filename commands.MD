@@ -12,4 +12,8 @@ Regular scans:
 
 High resolution
 
-./PuzzleSolver --guided --verbose --estimated-size 100 --threshold 22 --corners-blocksize 22 -r -a "../Scans/bliss/high-resolution-black" ../output
+./PuzzleSolver --guided --verbose --estimated-size 80 --threshold 20 --corners-blocksize 20 -r -a "../Scans/bliss/high-resolution-black" ../output
+
+./PuzzleSolver --guided --verbose --estimated-size 160 --threshold 20 --corners-blocksize 20 -r -a "../Scans/bliss/high-resolution-black/archive" ../output
+
+./PuzzleSolver --guided --verbose --estimated-size 300 -r -a "../Scans/bliss/high-resolution-black/archive" ../output
